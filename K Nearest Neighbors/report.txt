@@ -1,0 +1,12 @@
+Q1A. Distinct authors = 1466893
+     Distinct venues = 255692
+     Distinct publications = 1976815
+
+Q2. Time to generate arff file: 9.2s
+    Time to load file into Weka Explorer: ~6s
+    Time to execute FP-growth algorithm: ~2s
+
+Q4. Mnist cosine accuracy:
+    97.08%
+    20NG cosine accuracy:
+    65.37%
